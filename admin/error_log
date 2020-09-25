@@ -1,0 +1,182 @@
+[24-Nov-2018 19:19:03 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Listmitra::index() in /home/cambepalutei97/public_html/hykitz.com/admin/application/controllers/Listmitra.php on line 48
+[24-Nov-2018 19:19:16 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Listmitra::index() in /home/cambepalutei97/public_html/hykitz.com/admin/application/controllers/Listmitra.php on line 51
+[25-Nov-2018 21:30:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Listmitra::index() in /home/cambepalutei97/public_html/hykitz.com/admin/application/controllers/Listmitra.php on line 54
+[25-Nov-2018 21:30:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Listmitra::index() in /home/cambepalutei97/public_html/hykitz.com/admin/application/controllers/Listmitra.php on line 54
+[25-Nov-2018 21:30:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Listmitra::index() in /home/cambepalutei97/public_html/hykitz.com/admin/application/controllers/Listmitra.php on line 54
+[15-Dec-2018 15:42:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Driver_m::getAllMmassage() in /home/u5823249/public_html/demo/admin/application/controllers/Listdriver.php on line 54
+[17-Dec-2018 12:35:53 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Promotion_m::getAllNamaResto() in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 89
+[17-Dec-2018 12:40:30 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Promotion_m::getAllBannerMLaundry() in /home/u5823249/public_html/demo/admin/application/controllers/Bannerlaundry.php on line 23
+[17-Dec-2018 12:41:16 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Promotion_m::getAllBannerMLaundry() in /home/u5823249/public_html/demo/admin/application/controllers/Bannerlaundry.php on line 23
+[17-Dec-2018 12:43:01 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Promotion_m::getAllBannerMLaundry() in /home/u5823249/public_html/demo/admin/application/controllers/Bannerlaundry.php on line 23
+[17-Dec-2018 12:44:01 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Promotion_m::getAllBannerMLaundry() in /home/u5823249/public_html/demo/admin/application/controllers/Bannerlaundry.php on line 23
+[17-Dec-2018 12:46:04 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Promotion_m::getAllBannerMLaundry() in /home/u5823249/public_html/demo/admin/application/controllers/Bannerlaundry.php on line 23
+[17-Dec-2018 12:47:38 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 112
+[17-Dec-2018 12:48:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 112
+[17-Dec-2018 12:48:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 112
+[17-Dec-2018 12:49:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected 'UPDATE' (T_STRING) in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 118
+[17-Dec-2018 12:50:11 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 113
+[17-Dec-2018 12:50:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 113
+[17-Dec-2018 12:50:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 113
+[17-Dec-2018 12:50:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 113
+[17-Dec-2018 12:50:28 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Promotion_m.php on line 112
+[17-Dec-2018 15:01:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result_array() on boolean in /home/u5823249/public_html/demo/admin/application/models/ProporsiBiaya_m.php on line 14
+[17-Dec-2018 15:02:22 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result_array() on boolean in /home/u5823249/public_html/demo/admin/application/models/ProporsiBiaya_m.php on line 14
+[17-Dec-2018 15:10:59 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Rental::mbox() in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 35
+[17-Dec-2018 15:12:21 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Rental::mbox() in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 35
+[17-Dec-2018 16:39:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Kendaraanangkut_m.php on line 38
+[17-Dec-2018 16:40:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Kendaraanangkut_m.php on line 38
+[17-Dec-2018 16:40:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Kendaraanangkut_m.php on line 38
+[17-Dec-2018 16:40:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Kendaraanangkut_m.php on line 38
+[17-Dec-2018 16:40:11 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Kendaraanangkut_m.php on line 38
+[17-Dec-2018 16:40:35 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Kendaraanangkut_m.php on line 36
+[17-Dec-2018 16:40:36 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Kendaraanangkut_m.php on line 36
+[17-Dec-2018 17:02:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/u5823249/public_html/demo/admin/application/views/lihat_kendaraan.php on line 70
+[17-Dec-2018 17:02:03 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/u5823249/public_html/demo/admin/application/views/lihat_kendaraan.php on line 70
+[18-Dec-2018 13:37:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/u5823249/public_html/demo/admin/application/views/lihat_kendaraan.php on line 70
+[05-Jan-2019 16:22:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Driver_m::getMmassage() in /home/u5823249/public_html/demo/admin/application/controllers/Listdriver.php on line 204
+[18-Jan-2019 15:24:26 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getKategori() on null in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 187
+[18-Jan-2019 15:26:00 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function editfoto1() on null in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 217
+[21-Jan-2019 12:50:32 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Listdriver::generateRandomString() in /home/u5823249/public_html/demo/admin/application/controllers/Listdriver.php on line 96
+[21-Jan-2019 14:16:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 84
+[21-Jan-2019 14:17:15 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 84
+[21-Jan-2019 16:26:00 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 19
+[21-Jan-2019 16:29:29 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 19
+[21-Jan-2019 16:29:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 19
+[21-Jan-2019 16:30:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 19
+[21-Jan-2019 16:32:02 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 20
+[21-Jan-2019 16:32:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 20
+[21-Jan-2019 16:34:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 20
+[21-Jan-2019 16:35:37 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 20
+[21-Jan-2019 19:53:32 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Listmitra::food() in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 17
+[21-Jan-2019 19:54:07 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Listmitra::food() in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 17
+[21-Jan-2019 19:55:06 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 34
+[21-Jan-2019 19:55:40 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 32
+[21-Jan-2019 19:56:49 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 32
+[21-Jan-2019 19:56:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 32
+[21-Jan-2019 19:57:35 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 33
+[21-Jan-2019 19:59:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 33
+[21-Jan-2019 19:59:35 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 33
+[21-Jan-2019 20:00:30 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 33
+[21-Jan-2019 20:00:38 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 33
+[21-Jan-2019 20:00:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 33
+[21-Jan-2019 20:00:52 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 34
+[21-Jan-2019 20:00:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 34
+[21-Jan-2019 20:03:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 34
+[21-Jan-2019 20:09:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 36
+[21-Jan-2019 20:26:35 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function database() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 10
+[21-Jan-2019 20:27:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function library() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 11
+[21-Jan-2019 20:28:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function library() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 11
+[21-Jan-2019 20:29:35 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function library() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 11
+[21-Jan-2019 20:29:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function database() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 10
+[21-Jan-2019 20:30:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function database() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 10
+[21-Jan-2019 20:33:11 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Driver_m::getHistoryTransaksiFood() in /home/u5823249/public_html/demo/admin/application/controllers/Dashboard.php on line 69
+[21-Jan-2019 20:34:11 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Driver_m::getHistoryTransaksiFood() in /home/u5823249/public_html/demo/admin/application/controllers/Dashboard.php on line 69
+[21-Jan-2019 20:36:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 59
+[21-Jan-2019 20:36:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 59
+[21-Jan-2019 20:36:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 59
+[21-Jan-2019 20:37:04 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 59
+[21-Jan-2019 20:37:16 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 59
+[21-Jan-2019 20:37:17 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 59
+[21-Jan-2019 20:44:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 57
+[21-Jan-2019 20:47:36 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function database() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 10
+[21-Jan-2019 21:02:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getTotalTransaksiBulanan() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 17
+[21-Jan-2019 21:02:56 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getTotalTransaksiBulanan() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 20
+[21-Jan-2019 21:11:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getTotalTransaksi() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 33
+[21-Jan-2019 21:11:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getTotalTransaksi() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 33
+[21-Jan-2019 21:12:03 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getTotalTransaksi() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 33
+[21-Jan-2019 21:12:04 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getTotalTransaksi() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 33
+[22-Jan-2019 13:19:58 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getMakanan() on null in /home/u5823249/public_html/demo/admin/application/controllers/Dashboard.php on line 23
+[22-Jan-2019 13:21:49 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getMakanan() on null in /home/u5823249/public_html/demo/admin/application/controllers/Dashboard.php on line 23
+[22-Jan-2019 13:23:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getMakanan() on null in /home/u5823249/public_html/demo/admin/application/controllers/Dashboard.php on line 23
+[22-Jan-2019 14:10:20 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:15:17 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:15:25 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:15:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:18:32 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:18:50 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:19:36 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:20:15 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:20:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 214
+[22-Jan-2019 14:21:06 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:22:50 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 78
+[22-Jan-2019 14:24:50 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 78
+[22-Jan-2019 14:25:19 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 78
+[22-Jan-2019 14:26:02 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 78
+[22-Jan-2019 14:28:52 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:29:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:31:26 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:31:27 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:35:57 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/dashboard_view.php on line 91
+[22-Jan-2019 14:55:24 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/Listdriver_view.php on line 210
+[22-Jan-2019 14:57:24 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/Listdriver_view.php on line 210
+[22-Jan-2019 15:34:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Listdriver::detilDriver() in /home/u5823249/public_html/demo/admin/application/controllers/Listdriver.php on line 122
+[22-Jan-2019 15:35:36 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Listdriver::detilDriver() in /home/u5823249/public_html/demo/admin/application/controllers/Listdriver.php on line 122
+[22-Jan-2019 15:36:15 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 185
+[22-Jan-2019 15:37:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result_array() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 185
+[22-Jan-2019 15:37:25 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 185
+[22-Jan-2019 15:37:40 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 185
+[22-Jan-2019 15:37:59 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/Listdriver2_view.php on line 63
+[22-Jan-2019 19:18:42 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getAllVoucher() on null in /home/u5823249/public_html/demo/admin/application/controllers/Voucher.php on line 28
+[22-Jan-2019 19:18:58 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/controllers/Voucher.php on line 30
+[22-Jan-2019 19:42:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected 'DELETE' (T_STRING) in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 24
+[22-Jan-2019 19:42:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 25
+[22-Jan-2019 19:51:56 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 20
+[22-Jan-2019 19:59:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/u5823249/public_html/demo/admin/application/views/Voucher_view.php on line 118
+[22-Jan-2019 19:59:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/u5823249/public_html/demo/admin/application/views/Voucher_view.php on line 118
+[22-Jan-2019 19:59:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/u5823249/public_html/demo/admin/application/views/Voucher_view.php on line 118
+[22-Jan-2019 20:02:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 20
+[22-Jan-2019 20:11:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected 'DELETE' (T_STRING) in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 22
+[22-Jan-2019 20:12:44 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Voucher_m.php on line 18
+[23-Jan-2019 10:17:14 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 71
+[23-Jan-2019 10:17:47 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 71
+[23-Jan-2019 10:17:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 71
+[23-Jan-2019 10:20:00 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/Listdriver_view.php on line 81
+[23-Jan-2019 11:06:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/transaksi_view.php on line 67
+[23-Jan-2019 12:14:49 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Mitra_m::getJumlahTolak() in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 41
+[23-Jan-2019 12:51:33 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/demo/admin/application/views/Driver_view.php on line 58
+[23-Jan-2019 13:06:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Driver_m::getTerimarBox() in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 28
+[23-Jan-2019 13:08:28 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Driver_m::getTerimarBox() in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 28
+[23-Jan-2019 13:09:55 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Driver_m::getTerimarBox() in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 28
+[23-Jan-2019 14:31:43 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getListMakanan() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 84
+[23-Jan-2019 14:32:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 90
+[23-Jan-2019 14:32:42 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 90
+[23-Jan-2019 14:34:15 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 91
+[23-Jan-2019 14:34:47 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 91
+[23-Jan-2019 14:35:02 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result_array() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 91
+[23-Jan-2019 14:35:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 91
+[23-Jan-2019 14:35:38 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 91
+[23-Jan-2019 14:35:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 91
+[23-Jan-2019 14:50:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 50
+[23-Jan-2019 14:51:21 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 50
+[23-Jan-2019 14:51:55 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 50
+[23-Jan-2019 14:52:21 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 50
+[23-Jan-2019 14:52:23 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 50
+[23-Jan-2019 14:52:23 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 50
+[23-Jan-2019 14:52:51 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 49
+[23-Jan-2019 14:53:42 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/models/Mitra_m.php on line 49
+[23-Jan-2019 14:54:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Mitra_m::getjumlahTransaksiproduk() in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 40
+[23-Jan-2019 14:56:07 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Mitra_m::getitem() in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 43
+[23-Jan-2019 15:15:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result_array() on boolean in /home/u5823249/public_html/demo/admin/application/models/Driver_m.php on line 114
+[23-Jan-2019 15:27:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function belumterima() on null in /home/u5823249/public_html/demo/admin/application/controllers/Dashboard.php on line 23
+[23-Jan-2019 15:37:37 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function belumterima() on null in /home/u5823249/public_html/demo/admin/application/controllers/Listpelanggan.php on line 16
+[23-Jan-2019 15:50:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Mitra_m::getjumlahTransaksiitem() in /home/u5823249/public_html/demo/admin/application/controllers/Listmitra.php on line 93
+[23-Jan-2019 16:15:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function belumterima() on null in /home/u5823249/public_html/demo/admin/application/controllers/Rental.php on line 249
+[23-Jan-2019 17:00:33 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function belumterima() on null in /home/u5823249/public_html/demo/admin/application/controllers/Manageadmin.php on line 24
+[23-Jan-2019 17:02:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/u5823249/public_html/demo/admin/application/controllers/Manageadmin.php on line 68
+[23-Jan-2019 17:08:33 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getItem() on null in /home/u5823249/public_html/demo/admin/application/controllers/Manageadmin.php on line 15
+[23-Jan-2019 17:10:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function model() on null in /home/u5823249/public_html/demo/admin/application/controllers/Manageadmin.php on line 10
+[24-Jul-2019 00:38:38 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:39:33 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:39:35 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:39:36 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:39:38 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:39:47 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:40:48 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:40:49 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:40:51 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Dashboard.php on line 98
+[24-Jul-2019 00:40:55 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Dashboard.php on line 98
+[24-Jul-2019 00:41:15 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Dashboard.php on line 99
+[24-Jul-2019 00:44:47 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:47:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on boolean in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 16
+[24-Jul-2019 00:48:09 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
+[24-Jul-2019 00:48:10 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u5823249/public_html/go-pickme.com/admin/application/controllers/Maps.php on line 30
