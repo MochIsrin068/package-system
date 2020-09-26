@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 25, 2020 at 04:49 AM
+-- Generation Time: Sep 26, 2020 at 01:49 PM
 -- Server version: 10.4.14-MariaDB
 -- PHP Version: 7.3.22
 
@@ -1491,7 +1491,9 @@ CREATE TABLE `paket_diskon` (
 
 INSERT INTO `paket_diskon` (`id`, `paket_id`, `nama`, `discount`) VALUES
 (1, 1, 'Diskon AKhir Tahun', 50),
-(2, 3, 'Diskon Akhir Bulan', 12);
+(2, 3, 'Diskon Akhir Bulan', 12),
+(4, 7, 'Diskon Akhir Bulan', 50),
+(5, 5, 'Akhir Bulan Cuy', 2);
 
 -- --------------------------------------------------------
 
@@ -1501,10 +1503,16 @@ INSERT INTO `paket_diskon` (`id`, `paket_id`, `nama`, `discount`) VALUES
 
 CREATE TABLE `paket_riwayat` (
   `id` bigint(20) NOT NULL,
-  `id_paket` int(11) NOT NULL,
-  `id_discount` int(11) NOT NULL,
-  `total` bigint(20) NOT NULL
+  `id_transaksi` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `paket_riwayat`
+--
+
+INSERT INTO `paket_riwayat` (`id`, `id_transaksi`) VALUES
+(4, 10),
+(5, 11);
 
 -- --------------------------------------------------------
 
@@ -1529,7 +1537,36 @@ INSERT INTO `paket_sewa` (`id`, `nama`, `harga`, `kategori_estimasi`, `jam_estim
 (1, 'Paket 5', 150000, 1, 0, '2020-09-25 02:33:03'),
 (3, 'Paket 3', 1000000, 2, 3, '2020-09-28 02:38:02'),
 (5, 'Paket 4', 2000000, 3, 0, '2020-10-22 14:11:05'),
-(6, 'Paket 5', 2000000, 3, 2, '2020-10-09 02:32:06');
+(6, 'Paket 5', 2000000, 3, 2, '2020-10-09 02:32:06'),
+(7, 'Paket test', 10, 2, 1, '2020-09-26 08:46:32');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `paket_transaksi`
+--
+
+CREATE TABLE `paket_transaksi` (
+  `id` bigint(20) NOT NULL,
+  `id_paket` int(11) NOT NULL,
+  `id_user` varchar(100) NOT NULL,
+  `quantity` int(11) NOT NULL,
+  `tanggal_transaksi` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
+  `diskon` int(11) NOT NULL,
+  `total_harga` int(100) NOT NULL,
+  `total_bayar` int(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `paket_transaksi`
+--
+
+INSERT INTO `paket_transaksi` (`id`, `id_paket`, `id_user`, `quantity`, `tanggal_transaksi`, `diskon`, `total_harga`, `total_bayar`) VALUES
+(1, 1, '2', 1, '2020-09-25 15:00:52', 0, 0, 0),
+(2, 1, '2', 1, '2020-09-25 15:10:02', 0, 150000, 0),
+(3, 1, '2', 2, '2020-09-25 15:10:14', 0, 300000, 0),
+(10, 7, 'D103', 1, '2020-09-26 09:07:46', 0, 1, 0),
+(11, 7, 'D103', 2, '2020-09-26 10:14:13', 50, 20, 10);
 
 -- --------------------------------------------------------
 
@@ -2526,7 +2563,7 @@ CREATE TABLE `saldo` (
 --
 
 INSERT INTO `saldo` (`nomor`, `id_user`, `saldo`, `ppob_balance`, `poin`, `update_at`) VALUES
-(1, 'D103', 97701, 0, 0, '2020-09-23 17:51:15'),
+(1, 'D103', 97690, 0, 0, '2020-09-23 17:51:15'),
 (2, 'P1', 0, 0, 30, '2020-09-23 16:15:54');
 
 -- --------------------------------------------------------
@@ -3608,6 +3645,12 @@ ALTER TABLE `paket_sewa`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `paket_transaksi`
+--
+ALTER TABLE `paket_transaksi`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indexes for table `pelanggan`
 --
 ALTER TABLE `pelanggan`
@@ -4300,19 +4343,25 @@ ALTER TABLE `mservice_jenis`
 -- AUTO_INCREMENT for table `paket_diskon`
 --
 ALTER TABLE `paket_diskon`
-  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `paket_riwayat`
 --
 ALTER TABLE `paket_riwayat`
-  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `paket_sewa`
 --
 ALTER TABLE `paket_sewa`
-  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+
+--
+-- AUTO_INCREMENT for table `paket_transaksi`
+--
+ALTER TABLE `paket_transaksi`
+  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `pendaftaran_acservice`
