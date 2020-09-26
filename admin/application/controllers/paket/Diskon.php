@@ -6,7 +6,7 @@ class Diskon extends CI_Controller
     public function __construct()
     {
         parent::__construct();
-        $this->load->model('Diskon_m');
+        $this->load->model('PaketDiskon_m');
         $this->load->model('Paket_m');
     }
 
@@ -18,7 +18,7 @@ class Diskon extends CI_Controller
             //redirect(base_url());
             redirect();
         } else {
-            $data['diskons'] = $this->Diskon_m->getJumlahPaket();
+            $data['diskons'] = $this->PaketDiskon_m->getJumlahPaket();
             $data['pakets'] = $this->Paket_m->getJumlahPaket();
             $this->load->view('diskon_view', $data);
         }
@@ -30,14 +30,14 @@ class Diskon extends CI_Controller
         $data['discount'] = $this->input->post('diskon_paket');
         $data['nama'] = $this->input->post('nama_diskon');
 
-        $this->Diskon_m->save($data);
+        $this->PaketDiskon_m->save($data);
         redirect('paket/diskon');
     }
 
     public function delete()
     {
         $data['id'] = $this->input->post("id");
-        $this->Diskon_m->delete($data);
+        $this->PaketDiskon_m->delete($data);
         redirect('paket/diskon');
     }
 
@@ -48,7 +48,7 @@ class Diskon extends CI_Controller
         $data['discount'] = $this->input->post('diskon_paket');
         $data['nama'] = $this->input->post('nama_diskon');
 
-        $this->Diskon_m->update($data);
+        $this->PaketDiskon_m->update($data);
         redirect('paket/diskon');
     }
 }

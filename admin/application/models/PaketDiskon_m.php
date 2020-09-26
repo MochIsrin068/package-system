@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class Diskon_m extends CI_Model
+class PaketDiskon_m extends CI_Model
 {
 
     function __construct()

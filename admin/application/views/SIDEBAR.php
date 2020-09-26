@@ -464,8 +464,7 @@
             <li class="header">Manage Paket</li>
             <li><a href="<?php echo base_url(); ?>index.php/paket/paket"><i class="active fa fa-cube"></i> <span>Paket Sewa</span></a></li>
             <li><a href="<?php echo base_url(); ?>index.php/paket/diskon"><i class="active fa fa-cube"></i> <span>Diskon Paket Sewa</span></a></li>
-            <li><a href="<?php echo base_url(); ?>index.php/paket/riwayat"><i class="active fa fa-money"></i> <span>Riwayat Pembelian</span></a></li>
-
+            <li><a href="<?php echo base_url(); ?>index.php/paket/transaksi"><i class="active fa fa-money"></i> <span>Transaksi Paket</span></a></li>
         </ul>
     </section>
     <!-- /.sidebar -->
